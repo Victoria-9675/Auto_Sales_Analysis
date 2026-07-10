@@ -87,6 +87,29 @@ The dashboard below demonstrates the interactive filtering capabilities by selec
 - 🤝 Medium-sized deals accounted for the largest portion of revenue.
 - 🏆 Euro Shopping Channel was the highest revenue-generating customer.
 
+  ## 💡 Business Recommendations
+
+- Increase marketing efforts for high-performing product lines such as Classic Cars.
+- Focus on expanding sales strategies in top-performing countries like the USA.
+- Prepare inventory and promotional campaigns ahead of peak sales months.
+- Strengthen relationships with high-value customers through loyalty programs.
+- Investigate opportunities to increase the number of medium and large deal-size transactions.
+
+  ## 🗄️ SQL Skills Demonstrated
+
+- Database creation and table design
+- Star schema implementation
+- Primary and foreign key relationships
+- Data cleaning and transformation
+- SQL Joins
+- Aggregate Functions
+- Common Table Expressions (CTEs)
+- Window Functions (Running Total & Ranking)
+- Views
+- Exploratory Data Analysis (EDA)
+
+
+
 
 
 
