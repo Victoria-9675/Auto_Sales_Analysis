@@ -108,6 +108,16 @@ The dashboard below demonstrates the interactive filtering capabilities by selec
 - Views
 - Exploratory Data Analysis (EDA)
 
+## 📊 Power BI Features
+
+- Interactive KPI Cards
+- Slicers for dynamic filtering
+- Report Page Tooltips
+- Date Table
+- DAX Measures
+- Star Schema Data Model
+- Interactive Bar, Line, and Donut Charts
+
 
 
 
