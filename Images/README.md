@@ -4,13 +4,13 @@ The interactive Power BI dashboard provides an executive overview of auto sales 
 
 ### Dashboard Overview
 
-![Dashboard Overview](https://github.com/Victoria-9675/Auto_Sales_Analysis/blob/main/Images/Dashboard.png)
+![Dashboard Overview](Images/Dashboard.png)
 
 ### Dashboard with Filters Applied (USA)
 
 The dashboard below demonstrates the interactive filtering capabilities by selecting **USA**.
 
-![Dashboard Filtered](https://github.com/Victoria-9675/Auto_Sales_Analysis/blob/main/Images/Dashboard_USA.png)
+![Dashboard Filtered](Images/Dashboard_USA.png)
 
 ## 📌 Dashboard Features
 
