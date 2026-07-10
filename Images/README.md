@@ -4,14 +4,13 @@ The interactive Power BI dashboard provides an executive overview of auto sales 
 
 ### Dashboard Overview
 
-[![Dashboard Overview](Images/Dashboard.png)](Images/Dashboard.png)
-
+![Dashboard Overview](Images/Dashboard.png)
 
 ### Dashboard with Filters Applied (USA)
 
 The dashboard below demonstrates the interactive filtering capabilities by selecting **USA**.
 
-[![Dashboard Filtered](Images/Dashboard_USA.png)](Images/Dashboard_USA.png)
+![Dashboard Filtered](Images/Dashboard_USA.png)
 ## 📌 Dashboard Features
 
 The dashboard enables users to:
