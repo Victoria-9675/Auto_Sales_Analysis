@@ -79,6 +79,14 @@ The dashboard below demonstrates the interactive filtering capabilities by selec
 
 ![Dashboard Filtered](Images/Dashboard_USA.png)
 
+## 📈 Key Business Insights
+
+- 🚗 Classic Cars generated the highest revenue among all product lines.
+- 🌍 The USA contributed the largest share of total sales revenue.
+- 📅 Sales peaked in November, indicating strong seasonal demand.
+- 🤝 Medium-sized deals accounted for the largest portion of revenue.
+- 🏆 Euro Shopping Channel was the highest revenue-generating customer.
+
 
 
 
