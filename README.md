@@ -118,7 +118,16 @@ The dashboard below demonstrates the interactive filtering capabilities by selec
 - Star Schema Data Model
 - Interactive Bar, Line, and Donut Charts
 
+## 👤 Author
 
+**Victoria Kosgei**
+
+Aspiring Data Analyst with hands-on experience in Excel, SQL, Power BI, and Tableau. Passionate about transforming raw data into actionable business insights through data cleaning, analysis, visualization, and interactive dashboards.
+
+### Connect with Me
+
+- 💼 LinkedIn: [Victoria Kosgei](https://www.linkedin.com/in/victoria-kosgei-886582295/)
+- 💻 GitHub: [Victoria-9675](https://github.com/Victoria-9675)
 
 
 
