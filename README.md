@@ -65,5 +65,20 @@ Auto-Sales-Analysis/
 ├── Images/
 └── README.md
 ```
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides an executive overview of auto sales performance, customer behavior, product performance, and geographic sales distribution.
+
+### Dashboard Overview
+
+![Dashboard Overview](Images/Dashboard.png)
+
+### Dashboard with Filters Applied (USA)
+
+The dashboard below demonstrates the interactive filtering capabilities by selecting **USA**.
+
+![Dashboard Filtered](Images/Dashboard_USA.png)
+
+
 
 
